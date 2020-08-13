@@ -1,0 +1,141 @@
+
+.sa{
+  padding-top: 0.4%;
+}
+.sa10{
+  margin-bottom: 0;
+ /* padding-bottom: 0;*/
+}
+
+.sa1{
+  margin-top: 7rem;
+}
+.sa2{
+  margin-top: 4rem;
+}
+.sa2{
+  font-size: 12px;
+}
+.sa2 h2{
+  margin-top: -1rem;
+}
+.sa3{
+  font-size: 16px;
+  text-align: justify;
+}
+.sa4{
+  
+  margin-top: 7rem;
+
+}
+.col-4, .col-3{
+  padding-left: 0;
+  padding-right: 0;
+}
+.sa5{
+  margin-top: 7rem;
+  background-image: url("img/10.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px;
+}
+.sa7{
+  margin-top: 3rem;
+  margin-bottom: 0;
+  padding-bottom: 5px;
+}
+.sa6 h3{
+  padding-top: 1px;
+  margin-bottom: 6px;
+  font-size: 4rem;
+}
+.sa6 p{
+  text-align: justify;
+  font-weight: bold;
+}
+.sa6 ul{
+  list-style-type: none;
+}
+.sa6 ul li{
+  font-size: 20px;
+}
+.fas{
+  padding-right: 10px;;
+}
+.sa8{
+  margin-top: 3rem;
+}
+input,
+textarea {
+  width: 100%;
+  background: none;
+  border: 0;
+  border-bottom: 2px solid #fff;
+  color: #fff;
+  outline: none;
+  font-size: 20px;
+  padding: 5px 0 20px;
+  margin-bottom: 20px;
+}
+::placeholder {
+  color: #fff;
+  opacity: 1;
+  /* Firefox */
+}
+
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: red;
+}
+
+::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: red;
+}
+.sa11{
+  padding-top: 4rem;
+  color:#fff;
+}
+.sa11 p{
+  text-align: justify;
+  padding-right: 10px;
+  padding-top: 30px;
+}
+.sa12{
+  list-style-type: none;
+    position: relative;
+    margin-left: 38px;
+    /* display: block; */
+    /* margin-left: auto; */
+    margin-right: auto;
+}
+.sa12 li{
+	margin:0 auto;
+	text-align:center;
+}
+	
+.sa12 a{
+  text-decoration: none;
+  padding: 7px 10px;
+  display: block;
+  color: #fff;
+}
+.sa13{
+  margin-top: 3rem;
+}
+.sa14{
+  padding-top: 1rem;
+}
+hr{
+  border: 1px solid #fff;
+}
+.fix1{
+  overflow: hidden;
+}
+.sa4, .sa15 img:hover {
+  border:1px solid #fff;
+}
+.col-md-6, .col-sm-12, .col-xl-3{
+	padding-right: 0;
+    padding-left: 0;
+}
